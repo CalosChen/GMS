@@ -1,0 +1,2 @@
+F:\myworld\GMS\GMS.OA.Contract\obj\Debug\GMS.OA.Contract.csprojResolveAssemblyReference.cache
+F:\myworld\GMS\GMS.OA.Contract\obj\Debug\GMS.OA.Contract.csproj.CoreCompileInputs.cache

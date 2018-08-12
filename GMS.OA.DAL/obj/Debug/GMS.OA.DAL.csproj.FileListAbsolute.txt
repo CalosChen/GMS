@@ -1,0 +1,2 @@
+F:\myworld\GMS\GMS.OA.DAL\obj\Debug\GMS.OA.DAL.csprojResolveAssemblyReference.cache
+F:\myworld\GMS\GMS.OA.DAL\obj\Debug\GMS.OA.DAL.csproj.CoreCompileInputs.cache

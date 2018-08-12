@@ -1,0 +1,7 @@
+F:\myworld\bin\GMS.Core.Cache.dll
+F:\myworld\bin\GMS.Core.Cache.pdb
+F:\myworld\GMS\GMS.Core.Cache\obj\Debug\GMS.Core.Cache.csprojResolveAssemblyReference.cache
+F:\myworld\GMS\GMS.Core.Cache\obj\Debug\GMS.Core.Cache.dll
+F:\myworld\GMS\GMS.Core.Cache\obj\Debug\GMS.Core.Cache.pdb
+F:\myworld\GMS\GMS.Core.Cache\obj\Debug\GMS.Core.Cache.csproj.CoreCompileInputs.cache
+F:\myworld\GMS\GMS.Core.Cache\obj\Debug\GMS.Core.Cache.csproj.CopyComplete

@@ -1,0 +1,7 @@
+F:\myworld\bin\GMS.Framework.BLL.XML
+F:\myworld\bin\GMS.Framework.BLL.dll
+F:\myworld\bin\GMS.Framework.BLL.pdb
+F:\myworld\GMS\GMS.Framework.BLL\obj\Debug\GMS.Framework.BLL.dll
+F:\myworld\GMS\GMS.Framework.BLL\obj\Debug\GMS.Framework.BLL.pdb
+F:\myworld\GMS\GMS.Framework.BLL\obj\Debug\GMS.Framework.BLL.csprojResolveAssemblyReference.cache
+F:\myworld\GMS\GMS.Framework.BLL\obj\Debug\GMS.Framework.BLL.csproj.CoreCompileInputs.cache

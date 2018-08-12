@@ -1,0 +1,2 @@
+F:\myworld\GMS\GMS.Core.Upload\obj\Debug\GMS.Core.Upload.csprojResolveAssemblyReference.cache
+F:\myworld\GMS\GMS.Core.Upload\obj\Debug\GMS.Core.Upload.csproj.CoreCompileInputs.cache

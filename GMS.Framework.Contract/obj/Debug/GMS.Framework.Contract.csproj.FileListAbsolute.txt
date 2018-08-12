@@ -1,0 +1,8 @@
+F:\myworld\bin\GMS.Framework.Contract.XML
+F:\myworld\bin\GMS.Framework.Contract.dll
+F:\myworld\bin\GMS.Framework.Contract.pdb
+F:\myworld\GMS\GMS.Framework.Contract\obj\Debug\GMS.Framework.Contract.csprojResolveAssemblyReference.cache
+F:\myworld\GMS\GMS.Framework.Contract\obj\Debug\GMS.Framework.Contract.dll
+F:\myworld\GMS\GMS.Framework.Contract\obj\Debug\GMS.Framework.Contract.pdb
+F:\myworld\GMS\GMS.Framework.Contract\obj\Debug\GMS.Framework.Contract.csproj.CoreCompileInputs.cache
+F:\myworld\GMS\GMS.Framework.Contract\obj\Debug\GMS.Framework.Contract.csproj.CopyComplete

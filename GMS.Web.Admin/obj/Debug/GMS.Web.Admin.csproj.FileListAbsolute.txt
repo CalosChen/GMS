@@ -1,0 +1,2 @@
+F:\myworld\GMS\GMS.Web.Admin\obj\Debug\GMS.Web.Admin.csprojResolveAssemblyReference.cache
+F:\myworld\GMS\GMS.Web.Admin\obj\Debug\GMS.Web.Admin.csproj.CoreCompileInputs.cache
